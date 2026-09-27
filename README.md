@@ -18,7 +18,6 @@ Sforno pizze e mi scrivo il software che fa girare la pizzeria.<br>
 | 🌐 | **Ordini online** | Il sito legge menu e disponibilità direttamente dal gestionale: quello che vedi online è quello che c'è in cucina. |
 | 📊 | **Hub dati** | Incassi, pizze più vendute, previsione della serata, food cost dalle fatture fornitori, campagne SMS ai clienti. |
 | 🤖 | **Bot Telegram** | Report e numeri della pizzeria chiedendoli in chat, anche a voce. |
-| 📱 | **[CallFilter](https://github.com/Ebbop/CallFilter)** | App Android che filtra le chiamate indesiderate. |
 
 ### 🛠️ Con cosa lavoro
 
