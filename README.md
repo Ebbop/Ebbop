@@ -33,5 +33,5 @@ Sforno pizze e mi scrivo il software che fa girare la pizzeria.<br>
 
 ---
 
-<p align="center"><i>Il codice dei progetti della pizzeria resta privato: contiene dati dei clienti.<br>
+<p align="center"><i>Il codice dei progetti della pizzeria resta privato.<br>
 Il grafico qui sotto però non mente 👇</i></p>
